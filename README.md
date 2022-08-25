@@ -1,5 +1,7 @@
 [![Gitter](https://badges.gitter.im/aztfmod/community.svg)](https://gitter.im/aztfmod/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Cloned from earlier commit of caf-terraform-landingzones-accelerator repo to get the sandpit pipelines (https://github.com/Azure/caf-terraform-landingzones-accelerator/tree/f7db7abeeb0d30dab4b823c20ae85d3cfb51f6dc)
+
 # Cloud Adoption Framework landing zones for Terraform - Starter template
 
 Microsoft [Cloud Adoption Framework for Azure](https://aka.ms/caf) provides you with guidance and best practices to adopt Azure.
